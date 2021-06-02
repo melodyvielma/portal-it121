@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: rgb(134, 150, 195);
+    background-color: rgb(170, 177, 198);
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:rgb(79, 0, 139);
+    color:rgb(97, 40, 141);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: rgb(39, 0, 139);
+    background-color: rgb(134, 0, 139);
     text-decoration: none;
 }
 
