@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(165, 146, 205);
+    font-family: 'Optima', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -17,12 +17,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: rgb(255, 255, 255);
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(134, 150, 195);
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(79, 0, 139);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(39, 0, 139);
     text-decoration: none;
 }
 
